@@ -30,7 +30,33 @@ I work on healthcare software at **MedHelp**, across .NET services and React fro
 
 ## Side projects
 
-- **Valheim Admin** — A web app for managing a Valheim server, with a .NET API and a small Linux host agent.
+> Things I build on the side — to scratch an itch or just to learn something new.
+
+**📷 [Project Iris](https://github.com/Davidengstrom01/project-iris)** — Lightweight, Linux-first, non-destructive RAW photo editor. Presets, tone curve, HSL, masking and crop, packaged as AppImage, `.deb` and Arch.
+
+**🥊 [Rumble](https://github.com/Davidengstrom01/Rumble)** — Full-stack web app on .NET 10 and React 19 with PostgreSQL, deployed with Docker Compose and GitHub Actions.
+
+**🏠 [CoBuddy](https://github.com/Davidengstrom01/CoBuddy)** — A budget app for people who live together.
+
+**📱 [InTouch](https://github.com/Davidengstrom01/InTouch)** — An iPhone app, written in Swift, for keeping in touch with people.
+
+**🤝 [NiceToMeetYouApi](https://github.com/Davidengstrom01/NiceToMeetYouApi)** — An API for finding the right email address when reaching out to business contacts.
+
+**🎵 [Jukebox](https://github.com/Davidengstrom01/Jukebox)** — A Discord music bot for me and my friends.
+
+**💍 [AllanSilver](https://github.com/Davidengstrom01/AllanSilver)** — An e-commerce store for selling my handmade jewellery.
+
+**🗂️ [Project Resume Viewer](https://github.com/Davidengstrom01/project-resume-viewer)** — A portfolio site that showcases my projects.
+
+**⚔️ Valheim Admin** — A web app for managing a Valheim server, with a .NET API and a small Linux host agent.
+
+<details>
+<summary>School projects</summary>
+
+- **[MikroDesign](https://github.com/Davidengstrom01/MikroDesign)** — Microwave UI redesign (university project)
+- **[LiveTiming](https://github.com/Davidengstrom01/LiveTiming)** — LiveTiming redesign (high school project)
+
+</details>
 
 ---
 
